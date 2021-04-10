@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there [Hi](https://user-images.githubusercontent.com/67852344/114269814-69bf0e80-99f8-11eb-87e2-e79413ba5d0c.gif)
+
 
 <!--
 **roshie/roshie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
