@@ -24,7 +24,7 @@
     fill: transparent;
   }
   to {
-    fill: white;
+    fill: #fa0074;
   }
 }
 
