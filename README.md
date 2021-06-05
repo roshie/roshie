@@ -9,10 +9,10 @@
 
 #### Repositories
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=Potato-the-Bot&theme=radical&bg_color=0d1117&text_color=FFF"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=roshitha-portfolio&theme=radical&bg_color=0d1117&text_color=FFF" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=roshie-ta&theme=radical&bg_color=0d1117&text_color=FFF" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=roshie&theme=radical&bg_color=0d1117&text_color=FFF" />
+  <a href="https://github.com/roshie/Potato-the-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=Potato-the-Bot&theme=radical&bg_color=0d1117&text_color=FFF"/></a>
+  <a href="https://github.com/roshie/roshitha-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=roshitha-portfolio&theme=radical&bg_color=0d1117&text_color=FFF" /></a>
+  <a href="https://github.com/roshie/roshie-ta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=roshie-ta&theme=radical&bg_color=0d1117&text_color=FFF" /></a>
+  <a href="https://github.com/roshie/roshie"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=roshie&theme=radical&bg_color=0d1117&text_color=FFF" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
