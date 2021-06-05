@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://user-images.githubusercontent.com/67852344/114269814-69bf0e80-99f8-11eb-87e2-e79413ba5d0c.gif" width="25"> 
 
 <div align="center">
-    <img src="title.svg" width="400" height="400" alt="css-in-readme">
+    <img src="title.svg" width="400" height="400" alt="Hello there">
 </div>
 
 <p align="left">
