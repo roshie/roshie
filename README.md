@@ -4,8 +4,7 @@
       <img src="title.svg" width="300" height="300" alt="Hello there">
 </div>
 <div align="center">
-  <h1> I'm Roshitha </h1>
-  <h2>  Budding Developer | Freelance Editor </h2>
+  <h1> I'm Roshita | Budding Developer | Freelance Editor </h1>
 </div>
 
 <p align="left">
