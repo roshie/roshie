@@ -4,6 +4,7 @@
    Hello, There!
 </p>
 <div align="center">
+      <img src="title.svg" width="450" alt="I'm Roshita">
 </div>
 <div align="center">
   <h1> Budding Developer | Freelance Editor </h1>
