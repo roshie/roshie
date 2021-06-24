@@ -6,6 +6,7 @@
 <div align="center">
  <a href="https://roshie.github.io/roshie-ta"><img src="title.svg" width="400" alt="I'm Roshita"></a>
 </div>
+
 <div align="center">
   <h1> Budding Developer | Freelance Editor </h1>
 </div>
