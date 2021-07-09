@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <h1> Budding Developer | Freelance Editor </h1>
+  <h3> Budding Developer </h3>
 </div>
 
 <p align="left">
