@@ -8,9 +8,9 @@
  <a href="https://roshie.github.io/roshie-ta"><img src="title.svg" width="400" alt="I'm Roshita"></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h3> Budding Developer </h3>
-</div>
+</div> -->
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=roshie&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&text_color=FFF" height="165"> 
