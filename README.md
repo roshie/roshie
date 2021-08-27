@@ -19,7 +19,7 @@
 
 
 <p align="center">
-<h4> Aspiring Developer </h4>
+<!-- <h4> Repositories </h4> -->
  
   <a href="https://github.com/roshie/Potato-the-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=Potato-the-Bot&theme=radical&bg_color=0d1117&text_color=FFF"/></a>
  <a href="https://github.com/roshie/Gravity-AlbumViewer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=Gravity-AlbumViewer&theme=radical&bg_color=0d1117&text_color=FFF" /></a>
