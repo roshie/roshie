@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=roshie&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&text_color=FFF" height="165"> 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=roshie&theme=radical&&background=0d1117&text_color=FFF&border=FFF&dates=FFF" height="165">
 </p>
-
+ -->
 
 <p align="center">
   
@@ -26,7 +26,7 @@
   <a href="https://github.com/roshie/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=portfolio&theme=radical&bg_color=0d1117&text_color=FFF" /></a>
   <a href="https://github.com/roshie/FastAPI-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=FastAPI-template&theme=radical&bg_color=0d1117&text_color=FFF" /></a>
 </p>
-
+<!--
 #### Stats
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=roshie&theme=redical&bg_color=0d1117&color=FFF"> 
