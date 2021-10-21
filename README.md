@@ -12,7 +12,7 @@
   <h3> Aspiring Developer </h3>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshie&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&text_color=FFF" height="165"> 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=roshie&theme=radical&&background=0d1117&text_color=FFF&border=FFF&dates=FFF" height="165">
 </p>
@@ -74,4 +74,4 @@
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roshie.ta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/roshitharajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshitharajesh" height="30" width="40" /></a>
 <a href="https://instagram.com/roshie.ta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshie.ta" height="30" width="40" /></a>
-</p>
+</p> -->
