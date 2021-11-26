@@ -8,8 +8,7 @@
   <h3> Aspiring Developer </h3>
 </div>
 
-<div align="center">
-</div>
+<div align="center"></div>
 
 <hr>
 <div align="center">
