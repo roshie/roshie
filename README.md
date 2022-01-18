@@ -19,11 +19,11 @@
   <a href="https://github.com/roshie/FastAPI-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=FastAPI-template&theme=radical&bg_color=0d1117&text_color=FFF" /></a>
 </div>
 
-<!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshie&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&text_color=FFF" height="165"> 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=roshie&theme=radical&&background=0d1117&text_color=FFF&border=FFF&dates=FFF" height="165">
-</p> -->
+</p> 
+
 
 <!--
 #### Stats
