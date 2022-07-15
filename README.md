@@ -85,10 +85,10 @@ A Budding Engineer who's fueled by coffee☕. Currently pursuing my Bachelor of 
   <img src="https://github-readme-stats.vercel.app/api?username=roshie&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&text_color=FFF"  width="400"> 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=roshie&theme=radical&&background=0d1117&text_color=FFF&border=FFF&dates=FFF"  width="400">
 </p> 
-
-#<p align="center">
-#  <img src="https://activity-graph.herokuapp.com/graph?username=roshie&theme=redical&bg_color=0d1117&color=FFF" width="800"> 
-#</p>
+<!-- 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=roshie&theme=redical&bg_color=0d1117&color=FFF" width="800"> 
+</p> -->
 
 ![](https://komarev.com/ghpvc/?username=roshie&color=blueviolet)  [![Generic badge](https://img.shields.io/badge/Contact-Me-green.svg)](https://www.roshie.tech/contact)
 
