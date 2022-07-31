@@ -13,7 +13,7 @@
 
 ## About
 
-A Budding Engineer who's fueled by coffee☕. Currently pursuing my Bachelor of Technology in Loyola-ICAM College of Engineering and Technology 👩‍🎓. I love Learning new things, Organizing stuffs and Programming all day and night 🌛.
+A Budding Engineer who's fueled by coffee☕. Currently pursuing my Bachelor of Technology in Information Technology at Loyola-ICAM College of Engineering and Technology 👩‍🎓. I love Learning new things, Organizing stuffs and Programming all day and night 🌛.
 
 ## Languages and Tools
 
