@@ -66,7 +66,7 @@ A Budding Engineer who's fueled by coffee☕. Currently pursuing my Bachelor of 
 </p>
 
 <hr>
-<!--
+
 ## Repositories
 
 <div align="center">
@@ -78,7 +78,7 @@ A Budding Engineer who's fueled by coffee☕. Currently pursuing my Bachelor of 
   <a href="https://github.com/roshie/Potato-the-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=Potato-the-Bot&theme=radical&bg_color=0d1117&text_color=FFF"/></a>
   <a href="https://github.com/roshie/CoinSwap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=CoinSwap&theme=radical&bg_color=0d1117&text_color=FFF" /></a>
 </div>
--->
+
 
 ## Stats
 
