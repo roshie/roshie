@@ -4,7 +4,7 @@
 
 <div align="left">
  <a href="https://roshita.vercel.app/"><img src="title.svg" width="300" alt="I'm Roshita"></a>
-  <h3> Fullstack Developer </h3>
+  <h3> Budding Engineer </h3>
 </div>
 <a href="https://www.linkedin.com/in/roshitha-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshitharajesh" height="20" width="20" /></a>
 <a href="https://instagram.com/roshie.ta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshie.ta" height="20" width="30" /></a>
