@@ -67,7 +67,7 @@ A Budding Engineer who's fueled by coffee☕. Currently pursuing my Bachelor of 
 
 <hr>
 
-## Repositories
+<!-- ## Repositories
 
 <div align="center">
   <a href="https://github.com/roshie/PhotoBook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=PhotoBook&theme=radical&bg_color=0d1117&text_color=FFF"/></a>
@@ -78,7 +78,7 @@ A Budding Engineer who's fueled by coffee☕. Currently pursuing my Bachelor of 
   <a href="https://github.com/roshie/Potato-the-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=Potato-the-Bot&theme=radical&bg_color=0d1117&text_color=FFF"/></a>
   <a href="https://github.com/roshie/CoinSwap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=roshie&repo=CoinSwap&theme=radical&bg_color=0d1117&text_color=FFF" /></a>
 </div>
-
+-->
 
 ## Stats
 
@@ -91,5 +91,5 @@ A Budding Engineer who's fueled by coffee☕. Currently pursuing my Bachelor of 
   <img src="https://activity-graph.herokuapp.com/graph?username=roshie&theme=redical&bg_color=0d1117&color=FFF" width="800"> 
 </p> -->
 
-![](https://komarev.com/ghpvc/?username=roshie&color=blueviolet)  [![Generic badge](https://img.shields.io/badge/Contact-Me-green.svg)](https://www.roshie.tech/contact)
+![](https://komarev.com/ghpvc/?username=roshie&color=blueviolet)  [![Generic badge](https://img.shields.io/badge/Contact-Me-green.svg)](https://roshie.tech/contact)
 
