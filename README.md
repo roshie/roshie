@@ -4,17 +4,18 @@
 
 <div align="left">
  <a href="https://roshita.tech/"><img src="title.svg" width="300" alt="I'm Roshita"></a>
-  <h3> Budding Engineer </h3>
+  <h3> < Insert catchy tagline here! > </h3>
 </div>
 <a href="https://www.linkedin.com/in/roshitha-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshitharajesh" height="20" width="20" /></a>
 <a href="https://instagram.com/roshie.ta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshie.ta" height="20" width="30" /></a>
 <a href=https://twitter.com/roshie_ta" target="blank"><img align="center" src="https://user-images.githubusercontent.com/67852344/177448584-61683f48-eef2-4c55-b33b-de7f4ffd1e86.png" alt="roshie.ta" height="35" width="35" /></a>
 <a href="https://github.com/roshie" target="blank"><img align="center" src="https://user-images.githubusercontent.com/67852344/176813965-043bfaf6-2e50-44e3-bd15-a30c143c78b8.png" alt="roshie.ta" height="20" width="20" /></a>
 
-## About
+<!-- ## About -->
 
-A Budding Engineer who's fueled by coffee☕. Currently pursuing my Bachelor of Technology in Information Technology at Loyola-ICAM College of Engineering and Technology 👩‍🎓. I love Learning new things, Organizing stuffs and Programming all day and night 🌛.
+README is under construction. Until then, can we have some coffee? ☕
 
+<!--
 ## Languages and Tools
 
 <p align="left"> 
@@ -85,11 +86,11 @@ A Budding Engineer who's fueled by coffee☕. Currently pursuing my Bachelor of 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshie&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&text_color=FFF"  width="400"> 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=roshie&theme=radical&&background=0d1117&text_color=FFF&border=FFF&dates=FFF"  width="400">
-</p> 
+</p> -->
 <!-- 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=roshie&theme=redical&bg_color=0d1117&color=FFF" width="800"> 
 </p> -->
 
-![](https://komarev.com/ghpvc/?username=roshie&color=blueviolet)  [![Generic badge](https://img.shields.io/badge/Contact-Me-green.svg)](https://roshie.tech/contact)
+![](https://komarev.com/ghpvc/?username=roshie&color=blueviolet)  [![Generic badge](https://img.shields.io/badge/Contact-Me-green.svg)](https://roshita.tech/contact)
 
